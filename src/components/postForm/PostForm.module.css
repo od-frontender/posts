@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.textName {
+  width: 500px;
+  margin-bottom: 10px;
+}
+.textSearch {
+  width: 500px;
+  margin-bottom: 10px;
+}
